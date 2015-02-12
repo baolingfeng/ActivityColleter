@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  HCICollectDll.cpp
+HCICollectDll.cpp(244): warning C4018: '<' : signed/unsigned mismatch
+HCICollectDll.cpp(261): warning C4018: '<' : signed/unsigned mismatch
+HCICollectDll.cpp(617): warning C4018: '<' : signed/unsigned mismatch
+HCICollectDll.cpp(718): warning C4018: '<' : signed/unsigned mismatch
+HCICollectDll.cpp(817): warning C4018: '<' : signed/unsigned mismatch
+  util.cpp
+util.cpp(498): warning C4018: '<' : signed/unsigned mismatch
+util.cpp(571): warning C4102: 'Gdiplus' : unreferenced label
+     Creating library C:\Users\baolingfeng\Documents\Visual Studio 2012\Projects\InfoScentCollecter\Release\HCICollectDll.lib and object C:\Users\baolingfeng\Documents\Visual Studio 2012\Projects\InfoScentCollecter\Release\HCICollectDll.exp
+  Generating code
+  Finished generating code
+  HCICollectDll.vcxproj -> C:\Users\baolingfeng\Documents\Visual Studio 2012\Projects\InfoScentCollecter\Release\HCICollectDll.dll
